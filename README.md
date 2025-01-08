@@ -1,4 +1,4 @@
-# Mattermost Interview process project
+ # Mattermost Interview process project
 
 ### Stage 1
 
